@@ -1,0 +1,44 @@
+.stress {
+  display: flex;
+  margin: 20px;
+}
+
+.foot {
+  background-color: bisque;
+}
+
+.Nav {
+  background-color: rgb(255, 162, 0);
+  display: inline-flex;
+  width: 1200px;
+  padding-left: 20px;
+}
+h3 {
+  color: rebeccapurple;
+}
+
+li {
+  list-style: none;
+  display: inline-flex;
+  margin: 20px;
+}
+
+.sike {
+  display: flex;
+  margin-left: 30px;
+  padding-left: 50px;
+}
+
+.butt {
+  height: 40px;
+  color: bisque;
+  background-color: black;
+}
+
+.countbar {
+  margin-left: 400px;
+}
+
+.buttc {
+  margin-left: 300px;
+}
